@@ -1,2 +1,2 @@
-def greeting(name):
+def greet(name):
     return "Hello, " + name
